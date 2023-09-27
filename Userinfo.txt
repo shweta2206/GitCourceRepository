@@ -3,3 +3,4 @@ add work on that information.
 
 create new avatar for user 
 creating new avtar on new branch
+and using the avtar in feature branch itself
