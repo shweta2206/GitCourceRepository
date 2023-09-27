@@ -3,4 +3,5 @@ add work on that information.
 
 create new avatar for user 
 creating new avtar on new branch
-and using the avtar in feature branch itself
+and using the avtar in feature branch itselfg
+im in feature1 branch and should not see this in main branch
