@@ -1,2 +1,7 @@
 Get the user information..
 add work on that information.
+------------------------------------
+for FEATURE3 BRANCH
+crate avatar for feature3git 
+--------------------------------------
+in feature 3 new code 
