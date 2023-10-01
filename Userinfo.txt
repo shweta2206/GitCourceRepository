@@ -1,3 +1,11 @@
 Get the user information..
 add work on that information.
+<<<<<<< HEAD
  changes in main branchgit 
+=======
+
+create new avatar for user 
+creating new avtar on new branch
+and using the avtar in feature branch itselfg
+im in feature1 branch and should not see this in main branch
+>>>>>>> feature1
